@@ -1,0 +1,14 @@
+2025-04-30 17:24:19,696 - INFO - Starting recording and processing pipeline (duration: 60s)
+2025-04-30 17:25:20,018 - INFO - Processing audio file: recordings/recording_20250430_172419.wav
+2025-04-30 17:25:51,397 - INFO - Transcription completed in 31.38 seconds
+2025-04-30 17:28:57,180 - INFO - Starting recording and processing pipeline (duration: 60s)
+2025-04-30 17:29:57,425 - INFO - Processing audio file: recordings/recording_20250430_172857.wav
+2025-04-30 17:30:32,258 - INFO - Transcription completed in 34.83 seconds
+2025-04-30 17:33:39,468 - ERROR - File not found: path/to/audio.wav
+2025-04-30 17:34:52,619 - INFO - Processing audio file: recordings/audio1.wav
+2025-04-30 17:35:26,249 - INFO - Transcription completed in 33.63 seconds
+2025-04-30 17:35:26,280 - INFO - Full pipeline completed in 33.66 seconds
+2025-04-30 17:40:31,993 - INFO - Using default tokenizer.
+2025-04-30 18:07:28,964 - INFO - Processing audio file: recordings/audio2.wav
+2025-04-30 18:07:44,080 - INFO - Transcription completed in 15.12 seconds
+2025-04-30 18:07:44,103 - INFO - Full pipeline completed in 15.14 seconds
